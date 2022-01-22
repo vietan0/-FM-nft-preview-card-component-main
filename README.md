@@ -24,12 +24,10 @@ Users should be able to:
 
 ![](./screenshot.jpg)
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://vietan0.github.io/-FM-nft-preview-card-component-main/)
+- [Solution URL:](https://www.frontendmentor.io/solutions/nft-preview-card-component-using-plain-css-JlGqvCsc8)
+- [Live Site URL:](https://vietan0.github.io/-FM-nft-preview-card-component-main/)
 
 ### Built with
 

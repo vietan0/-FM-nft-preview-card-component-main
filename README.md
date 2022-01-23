@@ -25,7 +25,7 @@ Users should be able to:
 
 ## Links
 
-- [Live Website](https://vietan0.github.io/-FM-nft-preview-card-component-main/)
+- [Live Website](https://vietan0.github.io/FM-nft-preview-card-component/)
 - [Solution Page on Frontend Mentor](https://www.frontendmentor.io/solutions/nft-preview-card-component-using-plain-css-JlGqvCsc8)
 
 ## Built with

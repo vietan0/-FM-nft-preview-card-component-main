@@ -9,6 +9,8 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 - [Links](#links)
 - [Built with](#built-with)
 - [Author](#author)
+- [Acknowledgments](#acknowledgments)
+- [Validations](#validations)
 
 ## The challenge
 
@@ -23,8 +25,8 @@ Users should be able to:
 
 ## Links
 
-- [Solution Page](https://www.frontendmentor.io/solutions/nft-preview-card-component-using-plain-css-JlGqvCsc8)
-- [Live Site](https://vietan0.github.io/-FM-nft-preview-card-component-main/)
+- [Live Website](https://vietan0.github.io/-FM-nft-preview-card-component-main/)
+- [Solution Page on Frontend Mentor](https://www.frontendmentor.io/solutions/nft-preview-card-component-using-plain-css-JlGqvCsc8)
 
 ## Built with
 
@@ -37,3 +39,20 @@ Users should be able to:
 
 - Frontend Mentor - [@vietan0](https://www.frontendmentor.io/profile/vietan0)
 - Linkedin - [@vietan](https://www.linkedin.com/in/vietan/)
+
+## Acknowledgments
+
+I refined my page's accessibility based on feedback from [@PhoenixDev22](https://www.frontendmentor.io/profile/PhoenixDev22). I also learned a few things from [@vanzasetia's solution](https://github.com/vanzasetia/NFT-preview-card-component), including the validation tools below.
+
+## Validations 
+
+- [HTML Validator](https://validator.w3.org/nu/)
+- [CSS Validator](https://jigsaw.w3.org/css-validator/)
+- [Meta Tags](https://metatags.io/) - Check how my website looks when I share it on Google, Facebook, Twitter and more.
+- [Favicon checker](https://realfavicongenerator.net/favicon_checker) - Make sure my favicon looks good on all devices.
+- [SEOptimer](https://www.seoptimer.com/) - Check how good your website on search result.
+- [WAVE Test](https://wave.webaim.org/) - Accessibility tester.
+- [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+- [GTmetrix](https://gtmetrix.com/) - Website speed and performance optimization
+
+[Back to top](#table-of-contents)

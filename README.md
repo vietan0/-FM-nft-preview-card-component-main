@@ -50,7 +50,6 @@ I refined my page's accessibility based on feedback from [@PhoenixDev22](https:/
 - [CSS Validator](https://jigsaw.w3.org/css-validator/)
 - [Meta Tags](https://metatags.io/) - Check how my website looks when I share it on Google, Facebook, Twitter and more.
 - [Favicon checker](https://realfavicongenerator.net/favicon_checker) - Make sure my favicon looks good on all devices.
-- [SEOptimer](https://www.seoptimer.com/) - Check how good your website on search result.
 - [WAVE Test](https://wave.webaim.org/) - Accessibility tester.
 - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 - [GTmetrix](https://gtmetrix.com/) - Website speed and performance optimization
